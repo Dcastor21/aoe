@@ -1,0 +1,17 @@
+fastapi
+uvicorn{standard]
+pydantic
+pydantic-settings
+supabase
+httpx
+python-dotenv
+stripe
+twilio
+ortools
+cleanvision
+openai
+reportlab
+python-multipart
+python-jose[cryptography]
+pytest
+pytest-asyncio
