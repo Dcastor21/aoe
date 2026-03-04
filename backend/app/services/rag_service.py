@@ -1,4 +1,3 @@
-# app/services/rag_service.py
 import openai
 from app.config import settings
 from app.database import supabase
